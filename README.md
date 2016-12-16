@@ -39,7 +39,7 @@ The Dataset was split into training and validation sets, the validation examples
 
 # Data Collection
 
-The data was collected using Udacity Simulator which samples the video @10 Hz and record each frame from 3 different cameras together with the steering angle and the throttle (only the center camera was used here).I recorded 14,256 frame to use as my dataset for training and validation.Examples of the recorded images are shown below
+The data was collected using Udacity Simulator which samples the video @10 Hz and record each frame from 3 different cameras together with the steering angle and the throttle (only the center camera was used here).I recorded 14,256 frame to use as my dataset for training and validation.Examples of the recorded images from the center camera are shown below
 
 ![alt text] (/images/center_2016_12_15_10_43_27_207.jpg)
 ![alt text] (/images/center_2016_12_15_10_43_27_629.jpg)
